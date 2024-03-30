@@ -1,0 +1,117 @@
+[
+  {
+      "icon":"american-football",
+      "name":"Action-sheet",
+      "redirecTo": "/action-sheet"
+    },
+
+    {
+      "icon":"alert-circle-outline",
+      "name":"Alert",
+      "redirecTo": "/alert"
+    },
+
+    {
+      "icon":"beaker-outline",
+      "name":"Avatar",
+      "redirecTo": "/avatar"
+    },
+
+    {
+      "icon":"radio-button-off-outline",
+      "name":"Botones",
+      "redirecTo": "/button"
+    },
+
+    {
+      "icon":"card-outline",
+      "name":"Card",
+      "redirecTo": "/card"
+    },
+
+    {
+      "icon":"checkmark-circle-outline",
+      "name":"Checks",
+      "redirecTo": "/check"
+    },
+
+    {
+      "icon":"calendar-outline",
+      "name":"DateTime",
+      "redirecTo": "/date-time"
+    },
+
+    {
+      "icon":"car-outline",
+      "name":"Fab",
+      "redirecTo": "/fab"
+    },
+
+    {
+      "icon":"grid-outline",
+      "name":"Grid",
+      "redirecTo": "/grid"
+    },
+
+    {
+      "icon":"hammer-outline",
+      "name":"Input form",
+      "redirecTo": "/input"
+    },
+
+    {
+      "icon":"list-outline",
+      "name":"list - Sling",
+      "redirecTo": "/list"
+    },
+
+    {
+      "icon":"list-outline",
+      "name":"list - Reorder",
+      "redirecTo": "/list-reorder"
+    },
+
+    {
+      "icon":"refresh-circle-outline",
+      "name":"loading",
+      "redirecTo":"/loading"
+    },
+
+    {
+      "icon":"phone-portrait-outline",
+      "name":"Modal",
+      "redirecTo":"/modal"
+    },
+
+    {
+      "icon":"tablet-portrait-outline",
+      "name":"popover",
+      "redirecTo":"/popover"
+    },
+
+    {
+      "icon":"code-working-outline",
+      "name":"ProgressBar",
+      "redirecTo":"/progress"
+    },
+
+    {
+      "icon":"arrow-down-circle-outline",
+      "name":"Refresher",
+      "redirecTo":"/refresher"
+    },
+
+    {
+      "icon":"search-outline",
+      "name":"Search",
+      "redirecTo":"/search"
+    },
+
+    {
+      "icon":"copy-outline",
+      "name":"Segment",
+      "redirecTo":"/segment"
+    }
+
+
+]
